@@ -1,0 +1,8 @@
+.idea/
+/.erlang.mk/
+/launch_job.iml
+
+/launch_job.d
+/_rel/
+/ebin/
+/deps/
